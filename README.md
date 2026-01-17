@@ -21,7 +21,7 @@ cd build
 ./compile.sh
 ```
 
-<a href="#how-to-build-an-image-or-a-kernel"><img src=".github/README.gif" alt="Build demonstration" width="100%"></a>
+<a href="#how-to-build-an-image-or-a-kernel"></a>
 
 ## Build Host Requirements
 

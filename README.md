@@ -1,5 +1,5 @@
 <h3 align="center">
-  <a href=#><img src="https://raw.githubusercontent.com/armbian/.github/master/profile/logosmall.png" alt="Armbian logo"></a>
+  <a href=#></a>
   <br><br>
 </h3>
 
@@ -50,28 +50,8 @@ cd build
 
 We welcome contributions! See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines on reporting issues, submitting changes, and contributing code.
 
-## Support
-
-### Community Forums
-Get help from users and contributors on troubleshooting, configuration, and development.
-👉 [forum.armbian.com](https://forum.armbian.com)
-
-### Real-time Chat
-Join discussions with developers and community members on Discord, IRC, or Matrix.
-👉 [Community Chat](https://docs.armbian.com/Community_IRC/)
-
-### Paid Consultation
-For commercial projects, guaranteed response times, or advanced needs, paid support is available from Armbian maintainers.
-👉 [Contact us](https://www.armbian.com/contact)
-
-## Contributors
-
-Thank you to everyone who has contributed to Armbian!
-
-<a href="https://github.com/armbian/build/graphs/contributors">
-  <img alt="Contributors" src="https://contrib.rocks/image?repo=armbian/build" />
-</a>
-===============================================
+## 
+==================================================
 User Configuration
 User provided patches
 You can add your own patches outside build script. Place your patches inside appropriate directory, for kernel or u-boot. There are no limitations except all patches must have file name extension .patch. User patches directory structure mirrors directory structure of patch. Look for the hint at the beginning of patching process to select proper directory for patches. Example:
